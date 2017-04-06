@@ -1,2 +1,2 @@
-cd C:\repositories\stock\node_modules
+cd C:\repositories\mean-example\node_modules
 gulp dev
